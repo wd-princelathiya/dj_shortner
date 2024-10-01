@@ -26,6 +26,7 @@ SECRET_KEY = "django-insecure-1z0z&$)wsu_f5#t(u@=i_0uf9^d6(yy0(yz#9y6w3nkjtyh)9w
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
+
 CSRF_TRUSTED_ORIGINS  = ["https://*.kuberns.com"]
 
 # Application definition
